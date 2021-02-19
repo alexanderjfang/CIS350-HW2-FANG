@@ -17,7 +17,7 @@ So far we have nothing and I hope to fill it with some great work, at least we h
 1. Same Size
 2. List
 
-**Let's** and get `started!`
+**Let's** *get* `started!`
 
 ![Image](https://www.directivegroup.com/ideas/tools/news/wp-content/uploads/2017/03/smile-9047-9380-hd-wallpapers-1.jpg)
 
