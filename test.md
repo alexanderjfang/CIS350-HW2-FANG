@@ -20,7 +20,7 @@
  
 | ID  | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| TC4 | <TC1 description> | <steps to execute TC1> | <input values to this test case> | <expected output as a result of test case> | <actual output of test case> | <did it pass or fail?> | <requirement IDs this test case is linked to> |
+| TC4 | King Move | Move a king piece one space in any diagonal direction | Click on a king, drag to desired placement, click | King moves backward or forward | King moves backward or forward | Pass | FR13 |
  
 ## Integration tests
  
