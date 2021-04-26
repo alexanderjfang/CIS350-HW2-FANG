@@ -8,7 +8,8 @@
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 | TC1 | Move Piece | Select and move piece to desired location | Click on piece, drag to desired placement, click | Piece moves to selected location | Piece moves to selected location | Pass | FR12 |
  
-
+| ID  | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
+| :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 | TC2 | Take Piece | Move piece over enemy piece and remove it | Click on piece, drag to opposite side of enemy piece, click | The selected piece moves and the enemy piece is removed | The selected piece moves and the enemy piece is removed | Pass | FR15 |
  
 | ID  | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
