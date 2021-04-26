@@ -8,7 +8,7 @@
  
 | ID  | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| TC1 | <Move Piece> | <Select and move piece to desired location> | <Click on piece, drag to desired placement, click> | <Piece moves to selected location> | <Piece moves to selected location> | <Pass> | <FR12> |
+| TC1 | Move Piece | Select and move piece to desired location | Click on piece, drag to desired placement, click | Piece moves to selected location | Piece moves to selected location | Pass | FR12 |
  
  | ID  | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
