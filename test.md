@@ -46,4 +46,4 @@
  
 | ID  | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| TC10 | <TC1 description> | <steps to execute TC1> | <input values to this test case> | <expected output as a result of test case> | <actual output of test case> | <did it pass or fail?> | <requirement IDs this test case is linked to> |
+| TC10 | Player Turn | Move a piece | Current player move a piece | Opponent's turn begins and they may move a piece | Opponent's turn begins and they may move a piece | Pass | NFR6 |
