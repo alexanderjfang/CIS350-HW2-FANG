@@ -12,7 +12,7 @@
  
  | ID  | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| TC2 | <TC1 description> | <steps to execute TC1> | <input values to this test case> | <expected output as a result of test case> | <actual output of test case> | <did it pass or fail?> | <requirement IDs this test case is linked to> |
+| TC2 | Take Piece | Move piece over enemy piece and remove it | Click on piece, drag to opposite side of enemy piece, click | The selected piece moves and the enemy piece is removed | The selected piece moves and the enemy piece is removed | Pass | FR15 |
  
 | ID  | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
